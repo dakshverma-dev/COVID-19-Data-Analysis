@@ -24,11 +24,11 @@ plotly
 
 prophet
 
-You can install dependencies using:
+# You can install dependencies using:
 
 pip install pandas matplotlib plotly prophet
 
-Usage
+# Usage
 
 Clone the repository:
 
@@ -44,12 +44,12 @@ python covid19_analysis.py
 
 View interactive plots and forecasts in your browser or notebook.
 
-Project Structure
+# Project Structure
 .
 ├── covid19_analysis.py  # Main Python script
 ├── README.md            # Project documentation
 └── COVID19_dataset.csv  # Sample dataset (if provided)
 
-License
+# License
 
 This project is open-source and free to use.
