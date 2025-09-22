@@ -2,7 +2,7 @@
 
 A Python-based project that analyzes global COVID-19 data, visualizes trends, and forecasts future cases using Prophet and interactive plots with Plotly.
 
-# Features
+# Features:
 
 Load and process COVID-19 datasets from CSV files.
 
